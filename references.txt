@@ -1,0 +1,20 @@
+{
+    "online-references": [{
+            "url": ["https://doc.qt.io/qt-5/qtcpsocket.html"],
+            "contribution": "Qt socket communication",
+            "file": ["src/*", "include/*"]
+    }],
+    "colleague": [{
+            "jacobs-id": "ti.chen",
+            "sprint": "5",
+            "contribution": "Reorganized and fix the previous codebase, added more test cases and GUI.",
+            "file": ["src/*", "tests/", "ui/*", "include/*"]
+        },
+        {
+            "jacobs-id": "s.awwad",
+            "sprint": "4",
+            "contribution": "Reorganized and fix the previous codebase, added more test cases and socket communication.",
+            "file": ["include/*", "src/*", "tests/*"]
+        }
+    ]
+}
