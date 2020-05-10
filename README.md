@@ -1,22 +1,8 @@
-# se-05-team-19
-
-## Milestones
-
-* [X] Optimize imports.
-* [x] Fixed forward declaration issues.
-* [x] Integrate UniqueID Logic.
-* [x] Integrate Custom Exception.
-* [X] Create `DEBUG` and `RELEASE` modes. 
-* [x] Add more comprehensive test cases.
-* [x] Improve the UI.
-* [x] Make the game multi-player using socket communication.
-* [x] Improve the source code.
-
-
+# The Beer Game
 
 ## File Structure
     .
-    ├── se-05-team-19           # root directory
+    ├── beergame                # root directory
     │   ├── docs                # documentation
     │   ├── build               # build directory
     │   ├── include             # header/declaration files
@@ -33,8 +19,6 @@
 | **CMake** | [`Link`](https://cmake.org/download/) | [`Link`](https://cmake.org/documentation/) |
 | **Google Test** | [`Link`](https://github.com/google/googletest) | [`Link`](https://github.com/google/googletest/blob/master/googletest/docs/prim…) |
 | **Doxygen** | [`Link`](http://www.doxygen.nl/download.html) | [`Link`](http://www.doxygen.nl) |
-
-## Task distribution 
 
 ## Deploying
 
@@ -71,18 +55,3 @@ cmake ..
 make release
 make release-test
 ```
-
-## References 
-
-| Dependancy | Documentation |
-| :---------: | :-----------: |
-| **QT** | [`Link`](https://doc.qt.io) |
-| **CMake** | [`Link`](https://cmake.org/documentation/) |
-| **Google Test** | [`Link`](https://github.com/google/googletest/blob/master/googletest/docs/prim…) |
-| **Doxygen** | [`Link`](http://www.doxygen.nl) |
-
-
-## Contributors
-
-* Tianyao Chen
-* Otmane Sabir
