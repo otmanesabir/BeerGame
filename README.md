@@ -4,6 +4,10 @@
 
 The beer distribution game (also known as the beer game) is a type of gamification that is used to experience typical coordination problems of a supply chain process. It reflects a role-play simulation where several participants play with each other.
 
+## What still needs to be done?
+
+Link all UI elements and add multiplayer functionality. 
+
 ## File Structure
     .
     ├── beergame                # root directory
