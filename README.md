@@ -31,7 +31,7 @@ Link all UI elements and add multiplayer functionality.
 ## Deploying
 
 ```bash
-git clone https://github.com/iuliacornea99/se-04-team-01
+git clone https://github.com/otmanesabir/BeerGame.git
 cd build
 cmake ..
 make
@@ -46,7 +46,7 @@ make
 When doing a `DEBUG` build the project is set up to not optimize the generated code, and to tell the compiler to add debug information (which includes information about functions, variables, and other information needed for debugging).
 
 ```bash
-git clone https://github.com/iuliacornea99/se-04-team-01
+git clone https://github.com/otmanesabir/BeerGame.git
 cd build
 cmake ..
 make debug
@@ -57,7 +57,7 @@ make debug-test
 
 A `RELEASE` build on the other hand have higher level of optimization, and no debug information is saved.
 ```bash
-git clone https://github.com/iuliacornea99/se-04-team-01
+git clone https://github.com/otmanesabir/BeerGame.git
 cd build
 cmake ..
 make release
